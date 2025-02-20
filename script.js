@@ -1,12 +1,11 @@
 const mediaFiles = [
   //Alexandra
-  //<src=https://files.fm/thumb_video_picture.php?i=naadnga6ht" id="filesfm_embed_js__naadnga6ht"></script>
-  { name: '2022-06-11 001', type: 'foto', src: 'Mutimedia/Alexandra/2022-06-11 001.jpeg', artist: 'Alexandra' },
-  { name: '2022-05-17 003', type: 'video', src: 'Mu;', artist: 'Alexandra' },
+  { name: '2022-06-11 001', type: 'foto', src: 'Multimedia/Alexandra/2022-06-11 001.jpeg', artist: 'Alexandra' },
+  { name: '2022-05-17 003', type: 'video', src: 'Multimedia/Alexandra/2022-05-17 003.mp4', artist: 'Alexandra' },
 ];
 
-// { name: 'Nombre', type: 'foto', src: 'Link', artist: 'Actor' },
-// { name: 'Nombre', type: 'video', src: 'Link', artist: 'Actor' },
+// { name: 'Nombre', type: 'foto', src: 'Multimedia/', artist: 'Actor' },
+// { name: 'Nombre', type: 'video', src: 'Multimedia/', artist: 'Actor' },
 
 const gallery = document.getElementById("gallery");
 const videoElement = document.getElementById("fullscreenVideo");
