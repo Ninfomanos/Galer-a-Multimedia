@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="Do">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galería Multimedia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Galería Multimedia</h1>
+    <label for="artistFilter">Filtrar por artista:</label>
+    <select id="artistFilter">
+        <option value="all">Todos</option>
+    </select>
+    <div class="gallery" id="gallery"></div>
+    <div id="fullscreen" class="fullscreen" style="display: none;">
+        <img id="fullscreenImg" style="display: none;">
+        <button id="closeFullscreenImg" class="close-btn">✖</button>
+        <div id="videoContainer" style="display: none;">
+            <video id="fullscreenVideo"></video>
+            <div class="controls">
+                <button id="playPause">▶</button>
+                <input type="range" id="seekBar" value="0" step="0.1">
+                <button id="muteToggle">🔊</button>
+                <button id="closeFullscreen">✖</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
