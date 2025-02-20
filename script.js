@@ -1,8 +1,8 @@
 const mediaFiles = [
   //Alexandra
   //<src=https://files.fm/thumb_video_picture.php?i=naadnga6ht" id="filesfm_embed_js__naadnga6ht"></script>
-  { name: '2022-06-11 001', type: 'foto', href: '/Mutimedia/Alexandra/2022-06-11 001.jpeg', artist: 'Alexandra' },
-  { name: '2022-05-17 003', type: 'video', src: 'https://es.files.fm/pa/ninfomanosh/Alexandra/2022-05-17+003.mp4', artist: 'Alexandra' },
+  { name: '2022-06-11 001', type: 'foto', src: 'Mutimedia/Alexandra/2022-06-11 001.jpeg', artist: 'Alexandra' },
+  { name: '2022-05-17 003', type: 'video', src: 'Mu;', artist: 'Alexandra' },
 ];
 
 // { name: 'Nombre', type: 'foto', src: 'Link', artist: 'Actor' },
