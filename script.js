@@ -2,15 +2,20 @@ const mediaFiles = [
   //Alexandra
   { name: '2022-06-11 001', type: 'foto', src: 'Multimedia/Alexandra/2022-06-11 001.jpeg', artist: 'Alexandra' },
   { name: '2022-05-17 003', type: 'video', src: 'Multimedia/Alexandra/2022-05-17 003.mp4', artist: 'Alexandra' },
+  { name: '2021-05-08 002', type: 'foto', src: 'Multimedia/Alexandra/2021-05-08 002.jpg', artist: 'Alexandra' },
 
   //Amalfis
+  { name: '2024-02-27 001', type: 'foto', src: 'Multimedia/Amalfis/2024-02-27 001.jpg', artist: 'Amalfis' },
   
   //Anyeli
   { name: '2024-05-05 001', type: 'foto', src: 'Multimedia/Anyeli/2024-05-05 001.jpg', artist: 'Anyeli' },
 
   //Anyi
+  { name: '2024-07-03 001', type: 'foto', src: 'Multimedia/Anyi/2024-07-03 001.jpg', artist: 'Anyi' },
 
   //Ashley
+  { name: '2024-01-01 001', type: 'video', src: 'Multimedia/Ashley/2024-01-01 001.mp4', artist: 'Ashley' },
+
 ];
 
 // { name: 'Nombre', type: 'foto', src: 'Multimedia/', artist: 'Actor' },
