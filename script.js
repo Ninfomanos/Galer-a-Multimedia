@@ -6,7 +6,7 @@ const mediaFiles = [
   //Amalfis
   
   //Anyeli
-  { name: '2024-05-05 001', type: 'foto', src: 'Multimedia/Anyeli/2024-05-05 001.jpg', artist: 'Actor' },
+  { name: '2024-05-05 001', type: 'foto', src: 'Multimedia/Anyeli/2024-05-05 001.jpg', artist: 'Anyeli' },
 
   //Anyi
 
