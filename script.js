@@ -2,6 +2,15 @@ const mediaFiles = [
   //Alexandra
   { name: '2022-06-11 001', type: 'foto', src: 'Multimedia/Alexandra/2022-06-11 001.jpeg', artist: 'Alexandra' },
   { name: '2022-05-17 003', type: 'video', src: 'Multimedia/Alexandra/2022-05-17 003.mp4', artist: 'Alexandra' },
+
+  //Amalfis
+  
+  //Anyeli
+  { name: '2024-05-05 001', type: 'foto', src: 'Multimedia/Anyeli/2024-05-05 001.jpg', artist: 'Actor' },
+
+  //Anyi
+
+  //Ashley
 ];
 
 // { name: 'Nombre', type: 'foto', src: 'Multimedia/', artist: 'Actor' },
